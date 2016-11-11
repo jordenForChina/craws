@@ -1,0 +1,47 @@
+{
+  "name": "kingold",
+  "version": "1.0.3",
+  "description": "Hi, I'm wsscats, this module can help you download the image of the website",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wscats"
+  },
+  "keywords": [
+    "node",
+    "weui",
+    "angular"
+  ],
+  "author": {
+    "name": "wscats"
+  },
+  "license": "ISC",
+  "_id": "kingold@1.0.3",
+  "_shasum": "a253b5a57855499fd4692fe71dbbd5adcdc1181d",
+  "_from": "kingold@latest",
+  "_npmVersion": "2.15.8",
+  "_nodeVersion": "4.4.7",
+  "_npmUser": {
+    "name": "autumnswind",
+    "email": "AutumnsWinds@gmail.com"
+  },
+  "dist": {
+    "shasum": "a253b5a57855499fd4692fe71dbbd5adcdc1181d",
+    "tarball": "https://registry.npmjs.org/kingold/-/kingold-1.0.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "autumnswind",
+      "email": "AutumnsWinds@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/kingold-1.0.3.tgz_1478432899326_0.766726188827306"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/kingold/-/kingold-1.0.3.tgz"
+}
